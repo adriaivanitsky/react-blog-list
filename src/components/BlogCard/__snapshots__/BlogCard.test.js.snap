@@ -26,6 +26,11 @@ Object {
           >
             lorem ipsum blah blah blah
           </div>
+          <div
+            class="authors"
+          >
+            Michael Jordan
+          </div>
         </div>
         <div
           class="image"
@@ -58,6 +63,11 @@ Object {
           class="text"
         >
           lorem ipsum blah blah blah
+        </div>
+        <div
+          class="authors"
+        >
+          Michael Jordan
         </div>
       </div>
       <div

@@ -12,7 +12,6 @@ function App() {
     const fetchData = async () => {
       //important to await this data because when we get the data is it coming from an async function
       const data = await getBlogs();
-      console.log(data);
       setBlogs(data);
       setLoading(false);
     };
